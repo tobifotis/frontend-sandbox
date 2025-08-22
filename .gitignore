@@ -1,0 +1,19 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code settings
+.vscode/
+
+# Node modules (if you ever add npm for tooling)
+node_modules/
+
+# Logs
+*.log
+
+# OneDrive temp files
+~$*
+*.tmp
+
+# Git ignore itself shouldn't ignore .gitignore
